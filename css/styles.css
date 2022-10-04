@@ -23,6 +23,7 @@
 .button {
     font-family: 'Roboto';
     cursor: pointer;
+    background-color: #F5F4FA;
 }
 .button :hover,
 .button :focus {        
@@ -177,7 +178,7 @@
     letter-spacing: 0.03em;    
     color: #757575;
 }
-/* Stopka ale nie dziala...*/
+/* Stopka */
 .footer {
    background-color: #2F303A;
 }
