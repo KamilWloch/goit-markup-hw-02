@@ -20,13 +20,13 @@
     font-family: 'Roboto';
     color: #212121;
 }
-.button {
+*button {
     font-family: 'Roboto';
     cursor: pointer;
     background-color: #F5F4FA;
 }
-.button :hover,
-.button :focus {        
+*button :hover,
+*button :focus {        
     color: var(--selection-color);
 }
 
